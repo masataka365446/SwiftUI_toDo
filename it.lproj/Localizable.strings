@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  SwiftUI_ToDoapp
+
+  Created by 福原雅隆 on 2023/03/19.
+  
+*/
+
+"Task Title" = "Titolo del compito";
+"Due Date" = "Data di scadenza";
+"Priority" = "Priorità";
+"PriorityTitle" = "Priorità: %@";
+"Due" = "Data di scadenza: %@";
+
+"Send Notification" = "Invia notifica";
+"New Task" = "Nuovo compito";
+"Cancel" = "Annulla";
+"Add" = "Aggiungi";
+"ToDo List" = "Lista delle cose da fare";
+"|" = "|";
+
+"High" = "Alto";
+"Medium" = "Medio";
+"Low" = "Basso";

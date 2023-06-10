@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  SwiftUI_ToDoapp
+
+  Created by 福原雅隆 on 2023/03/19.
+  
+*/
+
+"Task Title" = "Judul Tugas";
+"Due Date" = "Tanggal Jatuh Tempo";
+"Priority" = "Prioritas";
+"PriorityTitle" = "Prioritas: %@";
+"Due" = "Jatuh Tempo: %@";
+
+"Send Notification" = "Kirim Notifikasi";
+"New Task" = "Tugas Baru";
+"Cancel" = "Batal";
+"Add" = "Tambah";
+"ToDo List" = "Daftar Tugas";
+"|" = "|";
+
+"High" = "Tinggi";
+"Medium" = "Sedang";
+"Low" = "Rendah";
